@@ -1,4 +1,4 @@
-# twitter-archive-explorer
+on# twitter-archive-explorer
 Twitter Archive Explorer is an app that allows users to navigate through their Twitter archive with a zoom-in/zoom-out timeline approach.
 Twitter Archive Explorer is this app with a zoomable timeline interface.
 
@@ -92,3 +92,15 @@ The app has a bottom tab navigation with three tabs:
 - Profile (user and archive information)
 
 The design follows a clean, iOS-inspired aesthetic with Twitter's signature blue as the primary accent color, light backgrounds, and subtle borders between sections.
+
+
+
+first, I just try to make the tool I need to explore my own archive, considered as part of my writer's production since 2011 on the plateform.
+if this contribution can be usefull, enjoy !
+
+lumomana@riseup.net 
+accepte donations in dash : 
+XwDZWh6dG73aqsyMPzgwBFjfWPLofTFBXD
+
+[^+°] 
+
